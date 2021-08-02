@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-08-02T15:40:00.472518394+02:00"
+from:
+  id-type: crev
+  id: 5FFmi5V7YbvhnCgZ29uXSFk6rsdwrLm_c0VOoPFUJRs
+  url: "https://github.com/crjeder/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: nb
+  version: 1.0.0
+  revision: 075ecd33c53bf8af9d1b584dda7a7669aedf2c50
+  digest: g3CLTxaKnCCbmpIJ9-u7wvCRsJeII1gkqrN0DNIakvY
+review:
+  thoroughness: high
+  understanding: medium
+  rating: strong
+comment: |-
+  Minimal and basic code. Maintained by the HAL team. Trustworthy.
+----- SIGN CREV PROOF -----
+Qq24gDxrB5xQtUwiYERX6_O4dwlYwLa_Q5Pv7eaw62OP0QfmZ4shcRs1C6j3kttFWFXvHEeENzo6KhuK0JqmCw
+----- END CREV PROOF -----
+
