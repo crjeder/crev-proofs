@@ -68,3 +68,21 @@ comment: |-
 O5Ue-bwMvQjv7lcEbRpJrEgzBvJa1IvBRSTF86OFNgV5MrdHeiZYgB4Hryp89R-bmPWrsIPCiHAks8zqDhnFBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-08-02T17:53:47.839710335+02:00"
+from:
+  id-type: crev
+  id: 5FFmi5V7YbvhnCgZ29uXSFk6rsdwrLm_c0VOoPFUJRs
+  url: "https://github.com/crjeder/crev-proofs"
+ids:
+  - id-type: crev
+    id: vfFGLngrNij8Mtla7J0RfdSmQqM4meJFZ128_04L780
+trust: high
+comment: |-
+  crev dev. I should trust him.
+----- SIGN CREV PROOF -----
+bYEaGpp2Os9lxg3FdEXeFHdhlWR6S22FnzlfdOvE-9Cmu8ixWVTxdPdInbESsZ05dduUAuVyV6JxV-jeKedBCg
+----- END CREV PROOF -----
+
