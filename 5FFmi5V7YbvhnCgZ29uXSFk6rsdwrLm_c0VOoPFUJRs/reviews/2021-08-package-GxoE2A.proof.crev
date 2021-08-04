@@ -93,3 +93,27 @@ comment: |-
 hVKDR2VHIH_bNPp02CLsLumEKySKqPJq5ybhkFhAXDA2Ks5ZY_kCM1mRbWOsxnMjKtGqoLb1mHviVVb_NzqJDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-08-04T11:34:15.540915581+02:00"
+from:
+  id-type: crev
+  id: 5FFmi5V7YbvhnCgZ29uXSFk6rsdwrLm_c0VOoPFUJRs
+  url: "https://github.com/crjeder/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: hx711_spi
+  version: 0.3.1
+  revision: a44f35a94d58057658b9135e6c247e56d008a3cd
+  digest: kwrK9mzE6OQdISqx-xqn0GaKrWJ3jeePpiZ6_p8jBkI
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I wrote the code. Not much dependencies, no unsafe code and no external acces except SPI. I trust it :-)
+----- SIGN CREV PROOF -----
+sefk1WGg7oIi5vkxz_tV8YtAXZUSe6J5OMOY_xM5YycxmF4vFzgk9UNPxTcGo1QOYnBhU69JtCFvvsrq-1muDw
+----- END CREV PROOF -----
+
