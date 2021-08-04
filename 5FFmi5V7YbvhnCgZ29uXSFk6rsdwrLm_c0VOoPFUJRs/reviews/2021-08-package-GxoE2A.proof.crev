@@ -70,3 +70,26 @@ comment: |-
 IuygSptCBM-VEK9gOhpFaNMTLOiHEoGvLp0RdogvJl6P5lVYNKKrlycCI2eWUx3nR_aR6_sIplGhgowLjq7oDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-08-04T11:31:22.749712623+02:00"
+from:
+  id-type: crev
+  id: 5FFmi5V7YbvhnCgZ29uXSFk6rsdwrLm_c0VOoPFUJRs
+  url: "https://github.com/crjeder/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: void
+  version: 1.0.2
+  digest: mmRZ15GpboF6sor0NdT0l1MKzJ4m3nPj7LCaRTxUzfs
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Only type definition. Nothing dangerous here.
+----- SIGN CREV PROOF -----
+hVKDR2VHIH_bNPp02CLsLumEKySKqPJq5ybhkFhAXDA2Ks5ZY_kCM1mRbWOsxnMjKtGqoLb1mHviVVb_NzqJDQ
+----- END CREV PROOF -----
+
