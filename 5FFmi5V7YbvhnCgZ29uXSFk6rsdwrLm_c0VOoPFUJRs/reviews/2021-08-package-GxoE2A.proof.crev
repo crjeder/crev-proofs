@@ -189,3 +189,27 @@ comment: |-
 0erUlLHr2CWzMonruw5PTUGCAWKsekxjFanU66NxtQtalUMD772FjpytH5GiXI77YGKxdyKHSD1IYfFgxiGvCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-08-11T14:18:52.585527739+02:00"
+from:
+  id-type: crev
+  id: 5FFmi5V7YbvhnCgZ29uXSFk6rsdwrLm_c0VOoPFUJRs
+  url: "https://github.com/crjeder/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitmatch
+  version: 0.1.1
+  revision: 5da2f86bedb4152036ed464b3d725e92591985b8
+  digest: BBUsMSNn_NOmpVjQAdccX4Fuu8w66zMK3MbdRN_VVqo
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  looks good to me.
+----- SIGN CREV PROOF -----
+9JFbhPPm-vSGO01hG-0COULUrOqA_LmaAeLV8LcgWJKJHY41r7eHmAcen5Zh-MoKTPpUjnkdCIOnu4GzxLe-AA
+----- END CREV PROOF -----
+
