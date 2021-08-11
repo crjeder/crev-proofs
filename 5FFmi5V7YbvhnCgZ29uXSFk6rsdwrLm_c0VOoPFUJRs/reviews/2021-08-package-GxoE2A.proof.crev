@@ -165,3 +165,27 @@ comment: |-
 Hidqu2QC92OeAK7KU56r5qOFIoEqlivbm0caS0xHmiOlXq30aqmghaygxEwYLJ07qnloD1CYsR7PLoh_yzgfBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-08-11T14:10:19.520516934+02:00"
+from:
+  id-type: crev
+  id: 5FFmi5V7YbvhnCgZ29uXSFk6rsdwrLm_c0VOoPFUJRs
+  url: "https://github.com/crjeder/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: embedded-hal
+  version: 0.2.6
+  revision: bccb903e8d8f4368e4c9e03c900279ebd34f75aa
+  digest: ru7Mo8fIPtFKXrYWxuRr9K_JnEHackZuG9GrJhB4H9w
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  little change from previous version
+----- SIGN CREV PROOF -----
+0erUlLHr2CWzMonruw5PTUGCAWKsekxjFanU66NxtQtalUMD772FjpytH5GiXI77YGKxdyKHSD1IYfFgxiGvCg
+----- END CREV PROOF -----
+
