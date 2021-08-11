@@ -237,3 +237,27 @@ comment: |-
 SuyYLAAqqNULA4GIGEDdeCwlNYU34BuhfTV7B4XtH0-6bcQ8PCjSB-fGjAMeGuxmMB0gMJGH3fZOtvrJ8GMmDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-08-11T14:29:00.355651852+02:00"
+from:
+  id-type: crev
+  id: 5FFmi5V7YbvhnCgZ29uXSFk6rsdwrLm_c0VOoPFUJRs
+  url: "https://github.com/crjeder/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: syn
+  version: 1.0.74
+  revision: 9e206dad2346e2f4542abb2200c397ceefddfc06
+  digest: o1o6qvEmL7QxG-01y9MOiTRBr2bsJwh3VGKmdV8HjOU
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  seems to be a foundational crate. have to trust it..
+----- SIGN CREV PROOF -----
+h7vF0X7ogtN6fYAeYAiqfgBiizzT-Kz5kZjUWHh_NJ3zN6EunwLbeisxLG0SENAb6UqfIMMl9kHVs0JB4sxwDg
+----- END CREV PROOF -----
+
