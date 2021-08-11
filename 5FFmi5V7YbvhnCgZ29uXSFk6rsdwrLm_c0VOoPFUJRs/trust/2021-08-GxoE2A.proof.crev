@@ -118,3 +118,20 @@ trust: medium
 -JXuER3D8hSpWadd-HUzAUSIUsknIccxCsL7KAx9RQ3EYm4908QwqHD8CmzjhJ6aIccHddO4HnBjRQ_nTV0PBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-08-11T13:38:30.766809839+02:00"
+from:
+  id-type: crev
+  id: 5FFmi5V7YbvhnCgZ29uXSFk6rsdwrLm_c0VOoPFUJRs
+  url: "https://github.com/crjeder/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: low
+----- SIGN CREV PROOF -----
+b2Y-9p78fF2L7TOUnYM4Gf5MErVASj9yzDvGywsHfFSd_MXkkOx1xqatHhlSm2y4q7_mnCEeNnypDUYAXP_KAw
+----- END CREV PROOF -----
+
